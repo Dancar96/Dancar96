@@ -1,4 +1,4 @@
-<h1 align="center"> :bowtie: Hi, my name is Daniel :bowtie: </h1>
+<h1 align="center"> <img src="https://github.com/Dancar96/Dancar96/blob/main/img/Portada%20Github.jpeg" alt="Portada Daniel" width="1000" height="400"></h1>
 
 Welcome to my personal repository
 
