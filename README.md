@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/Dancar96/Dancar96/blob/main/img/BannerGit.png" alt="Portada Daniel" width="1000" height="400"></h1>
+<h1 align="center"> <img src="https://github.com/Dancar96/Dancar96/blob/main/img/BannerGit.png" alt="Portada Daniel" width="1700" height="425"></h1>
 
 Welcome to my personal repository
 
