@@ -42,4 +42,11 @@ Some technologies I work with are:
 <a href="https://www.instagram.com/dani.carrera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dani.carrera/" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dancar96&show_icons=true&locale=en" alt="dancar96" /></p>
+<p align="left">
+  <table border="0">
+    <tr>
+      <td><a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dancar96&show_icons=true&locale=en" alt="dancar96" /></a></td>
+      <td><a><img src="img/TuckerPixel.jpg" alt="PixelArt" width="200" height="200"></a></td>
+    </tr>
+  </table>
+</p>
