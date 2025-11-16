@@ -2,9 +2,9 @@
 
 Welcome to my personal repository
 
-- :syringe: I'm a nurse who wants to learn coding in order to change his actual profession.
-- :computer: Currently doing a data science bootcamp course with The Bridge.
-- :bow: I'm currently learning with help from FreeCodeCamp courses.
+- :syringe: I’m a tech consultant currently studying a Master's degree in Bioinformatics.
+- :computer: Previously trained in Data Science (The Bridge Bootcamp).
+- :bow: I am focused on improving my skills in programming, data analysis and computational biology.
 - :books: I am new to this so I am open to any kind of advice, opinions and feedback.
 
 Some technologies I work with are:
@@ -29,7 +29,7 @@ Some technologies I work with are:
 </div>
 
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![BioPython](https://img.shields.io/badge/BioPython-2C8EBB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dancar96&label=Profile%20views&color=0e75b6&style=flat" alt="dancar96" /> </p>
 
